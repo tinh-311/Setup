@@ -1,0 +1,1 @@
+- Nếu Cài vào ổ c bị lỗi không có dữ liệu (tra từ luôn không tìm thấy) thì chọn Setup Dictionary (c)
